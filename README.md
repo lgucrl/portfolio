@@ -4,6 +4,7 @@ This repository contains my Data Science portfolio, including a collection of st
 ---
 
 ## Projects
+<img align="left" width="240" height="160" src="https://github.com/lgucrl/deep-learning-email-classification/blob/main/images/thumbnail_email_classification.png"> 
 
 **[Machine / Deep Learning classification and NLP analysis of emails](https://github.com/lgucrl/deep-learning-email-classification/)**  
 This project builds an end-to-end pipeline in Python to **classify emails as SPAM vs. HAM (non-spam)** and then perform detailed **NLP analyses** on the resulting groups. In addition to supervised classification, it explores the **main topics** of SPAM emails, the **differences/similarities** of SPAM topics, and the **organizations mentioned** in non-spam messages.
